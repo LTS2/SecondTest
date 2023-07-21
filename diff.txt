@@ -1,4 +1,9 @@
+테스트 브랜치에서 수정함 diff.txt 파일입니다
+5줄이 있어요
+
+tashed changes
 
 main 브랜치에서 수정된 diff.txt 파일
 
+main 브랜치에서 수정된 diff.txt 파일
 
